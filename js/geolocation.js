@@ -4,7 +4,7 @@ document.addEventListener("DOMContentLoaded", function(){
     //code goes here to find position
     var params = {
         enableHighAccuracy: false,
-        timeout:3600,
+        timeout:60000,
         maximumAge:60000
     
     };
