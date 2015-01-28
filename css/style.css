@@ -1,0 +1,14 @@
+canvas{
+    max-width: 100%;
+}
+
+html {
+margin: 0 auto;
+    padding: 1px;
+
+}
+
+p {
+text-align: center;
+    color: pink;
+}
